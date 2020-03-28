@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "拖动批量复制", "拖动批量复制\拖动批量复制.csproj", "{E8A43644-E191-482D-A42F-2EE7B65BF38A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E8A43644-E191-482D-A42F-2EE7B65BF38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8A43644-E191-482D-A42F-2EE7B65BF38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8A43644-E191-482D-A42F-2EE7B65BF38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8A43644-E191-482D-A42F-2EE7B65BF38A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E55605-403D-4E7D-99AE-63E5ECDD4ECF}
+	EndGlobalSection
+EndGlobal
